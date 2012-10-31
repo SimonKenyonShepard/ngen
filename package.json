@@ -1,0 +1,15 @@
+{
+  "name": "ngin",
+  "version": "0.0.1",
+  "author": {
+    "name": "Simon",
+    "email": "Simon.shepard@trisis.co.uk"
+  },
+  "description": "a node based restful implementation of a version control system",
+  "main": "",
+  "dependencies": {
+    "mime": "1.2.7",
+    "express": "3.0.0rc3"
+   }
+}
+
